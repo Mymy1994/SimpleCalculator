@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\bin\Debug\MYLENE CARUANA.exe.config
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\bin\Debug\MYLENE CARUANA.exe
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\bin\Debug\MYLENE CARUANA.pdb
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE CARUANA.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE_CARUANA.Form1.resources
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE_CARUANA.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE CARUANA.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE CARUANA.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE CARUANA.exe
+C:\Users\Lenovo\source\repos\MYLENE CARUANA\obj\Debug\MYLENE CARUANA.pdb
